@@ -1,3 +1,17 @@
-**The Cauchy-Schwarz Inequality**
+**Enterisk metan på grisen**
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$CH4_{enterisk} = \frac{((S \cdot 1,31) - I) \cdot F \cdot {SF} \cdot Ym}{O} $$
+
+Hvor 
+
+•	S (Slagtevægt) = input fra landmanden el standard
+
+•	I (Indsættelsesvægt) = input fra landmanden el standard
+
+•	F (Fesv pr kg tilvækst) = input fra landmanden el standard
+
+•	SF (Slagtesvinefoder, MJ pr foderenhed) = 17,3 
+
+•	Ym-faktor = 0,006
+
+•	O (Omregningsfaktor MJ til CH4) = 55,65
