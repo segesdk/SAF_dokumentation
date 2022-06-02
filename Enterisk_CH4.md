@@ -22,9 +22,11 @@ Hvor:
 
 | Dyregruppe | Slagtevægt, kg | Indsættelsesvægt, kg | FEsv/kg tilvækst |
 |---|---|---|---|
-|Slagtegris, konv.|88|31|2,65|
+|Slagtegris, konv.|88|30|2,65|
 |FRATS, konv.|88|6,6|2,45|
 |Slagtegris øko|88|30|2,89|
+|Smågris|-|6,4|1,82|
+|Smågris øko|-|14|2,25|
 
 *CH<sub>4</sub>-emissionen ganges med antallet af dyr pr staldtype og omregnes til CO<sub>2</sub>-ækvivalenter*
 ### **Omregning til CO<sub>2</sub>e:**
