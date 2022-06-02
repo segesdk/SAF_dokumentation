@@ -6,17 +6,12 @@ $$CH_{4_{enterisk}} = \frac{(S \cdot 1,31 - I) \cdot F \cdot {SF} \cdot Ym}{\the
 
 Hvor: 
 
-•	S (Slagtevægt) = input fra bruger el. standard fra tabel
-
-•	I (Indsættelsesvægt) = input fra bruger el. standard fra tabel
-
-•	F (FEsv pr kg tilvækst) = input fra bruger el. standard fra tabel
-
-•	SF (Slagtegrisefoder, MJ pr foderenhed) = 17,3 
-
-•	Ym-faktor = 0,006
-
-•	$\theta$ <sub>MJ-CH<sub>4</sub></sub> (Omregningsfaktor MJ til CH<sub>4</sub>) = 55,65
+* S (Slagtevægt) = input fra bruger el. standard fra tabel
+* I (Indsættelsesvægt) = input fra bruger el. standard fra tabel
+* F (FEsv pr kg tilvækst) = input fra bruger el. standard fra tabel
+* SF (Slagtegrisefoder, MJ pr foderenhed) = 17,3 
+* Ym-faktor = 0,006
+* $\theta$ <sub>MJ-CH<sub>4</sub></sub> (Omregningsfaktor MJ til CH<sub>4</sub>) = 55,65
 
 *Standardtal:*
 
