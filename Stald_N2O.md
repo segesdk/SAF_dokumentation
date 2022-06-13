@@ -4,11 +4,11 @@
 
 **Beregning af lattergas på stald** 
 
-$$N_2O_{stald} = N_{total} \cdot Tab_{DS} \cdot VS $$
+$$N_2O_{stald} = N_{total} \cdot Tab_{N2OStald} \cdot VS $$
 
 Hvor: 
 
- * Tab<sub>DS</sub> ses i tabellen nederst
+ * Tab<sub>N2OStald</sub> ses i tabellen nederst
  * VS: Effekten af evt. valgte virkemidler på stalden
 
 
@@ -30,17 +30,17 @@ og
  * R: Råprotein g pr foderenhed = se KLI-282
  * P: Protein til N = 6,25
  * N: N pr kg tilvækst = 29,6
- * S: Slagtevægt = input fra landmanden el standard (se KLI-199)
- * I: Indsættelsesvægt = input fra landmanden el standard (se KLI-199)
+ * S: Slagtevægt = input fra landmanden el standard (se SAFK-24)
+ * I: Indsættelsesvægt = input fra landmanden el standard (se SAFK-24)
 
 **Beregning af kg N fra strøelse**
 $$ N_{strøelse} = Halm \cdot Z $$
 
-* Z: kg N pr. kg strøelse = 0,0425
+* Z: kg N pr. kg strøelse = 0,00425
  * Halm ses i tabellen nederst
 
  
-|Dyretype C_2004|Kode dyretype C_2029|Staldtype C2005|*Kode staldsystem C_2030|Tab: Direkte N2O tab i stalden, % af N ab dyr|Halm: Kg halm per dyr|
+|Dyretype C_2004|Kode dyretype C_2029|Staldtype C2005|Kode staldsystem C_2030|Tab<sub>N2OStald</sub>: Direkte N2O tab i stalden, % af N ab dyr|Halm: Kg halm per dyr|
 |---|---|---|---|---|---|
 |1 producerede slagtesvin,| | | | | |
 | |1512|delvis spaltegulv med 50-75 % fast gulv|7|0,2%|3|
@@ -59,7 +59,7 @@ $$ N_{strøelse} = Halm \cdot Z $$
 |1 producerede slagtesvin, økologiske| | | | | |
 | |1516|Udendørs|1|0,4% |30|
 | |1516|Delvis spaltegulv inde. Løbegård (50/50) ude|2|0,2%|10 |
-| |11516|Dybstrøelse hele arealet inde. Løbegård med fast/drænet gulv + spaltegulv (50%/50%)|3|0,56%|30 |
+| |1516|Dybstrøelse hele arealet inde. Løbegård med fast/drænet gulv + spaltegulv (50%/50%)|3|0,56%|30 |
 
 
 
