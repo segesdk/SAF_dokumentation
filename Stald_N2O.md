@@ -23,7 +23,7 @@ $$N_{slagtesvin} = \frac{\frac{T \cdot F \cdot R}{P}-T \cdot N}{1000} $$
 Hvor: 
 
 Tilvæksten, T, beregnes:
-$$ T = (S  * 1,31) - I $$
+$$ T = (S  \cdot \Delta_d) - I $$
 
 og
  * F: Fesv pr kg tilvækst = Indtastning el std. 2,65
@@ -31,6 +31,7 @@ og
  * P: Protein til N = 6,25
  * N: N pr kg tilvækst = 29,6
  * S: Slagtevægt = input fra landmanden el standard (se SAFK-24)
+ * Δ<sub>d</sub> = 1,31
  * I: Indsættelsesvægt = input fra landmanden el standard (se SAFK-24)
 
 **Beregning af kg N fra strøelse**
@@ -66,7 +67,7 @@ $$ N_{strøelse} = Halm \cdot Z $$
 *N<sub>2</sub>O-emissionen ganges med antallet af dyr pr staldtype og omregnes til CO<sub>2</sub>-ækvivalenter*
 ### **Omregning til CO<sub>2</sub>e:**
 
-$$CO_2e = CH_{4_{enterisk}} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2} $$
+$$CO_2e = N_2O_{stald} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2} $$
 
 Hvor: 
 
