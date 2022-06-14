@@ -2,19 +2,19 @@
 
 ### **Beregning:**
 
-**Beregning af fordampning, kg NH3<sub>N</sub> per svin stald** 
+**Beregning af fordampning, kg NH3<sub>N</sub> per svin i stalden** 
 
-$$ NH3_{stald} = TAN_N \cdot Tab_{NH3Stald} \cdot VS $$
+$$ NH_{3_{stald}} = TAN_N \cdot Tab_{NH_3Stald} \cdot V_S $$
 
 Hvor: 
 
- * Tab<sub>NH3Stald</sub> ses i tabellen nederst
- * VS: Effekten af evt. valgte virkemidler på stalden
+ * Tab<sub>NH3Stald</sub>: Indirekte N2O tab i stalden, % af N ab dyr, ses i tabellen nederst
+ * V<sub>S</sub>: Effekten af evt. valgte virkemidler på stalden
 
 
 **Beregning af kg TAN<sub>N</sub> ab slagtesvin** 
 
-$$ TAN_N = \frac{\frac{T \cdot F \cdot R \cdot K}{P}-T \cdot N}{1000}$$
+$$ TAN_N = \frac{\frac{T \cdot Fe \cdot R \cdot K}{P}-T \cdot N}{1000}$$
 
 Hvor: 
 
@@ -22,7 +22,7 @@ Tilvæksten, T, beregnes:
 $$ T = (S  \cdot \Delta_d) - I $$
 
 og
- * F: Fesv pr kg tilvækst = Indtastning el std. 2,65
+ * Fe: Fesv pr kg tilvækst = input fra landmanden el standard (se SAFK-24)
  * R: Råprotein g pr foderenhed = se KLI-282
  * K: FordøjelighedsKoefficient = 0,81
  * P: Protein til N = 6,25
@@ -33,7 +33,7 @@ og
 
 
  
-|Dyretype C_2004|Kode dyretype C_2029|Staldtype C2005|Kode staldsystem C_2030|Tab<sub>NH3Stald</sub>: Indirekte N2O tab i stalden, % af N ab dyr|
+|Dyretype C_2004|Kode dyretype C_2029|Staldtype C2005|Kode staldsystem C_2030|Tab<sub>NH3Stald</sub>|
 |---|---|---|---|---|
 |1 producerede slagtesvin,| | | | |
 | |1512|delvis spaltegulv med 50-75 % fast gulv|7|0,2%|

@@ -4,31 +4,31 @@
 
 **Beregning af enterisk metan for slagtegrise** 
 
-$$CH_{4_{enterisk}} = \frac{(S \cdot \Delta_d - I) \cdot F \cdot {SF} \cdot Ym}{\theta_{MJ-CH_4}} $$
+$$CH_{4_{enterisk}} = \frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe \cdot {F} \cdot Ym}{\theta_{MJ-CH_4}} $$
 
 **Beregning af enterisk metan for smågrise** 
 
-$$CH_{4_{enterisk}} = \frac{(A - I) \cdot F \cdot {SF} \cdot Ym}{\theta_{MJ-CH_4}} $$
+$$CH_{4_{enterisk}} = \frac{(V_{afgang} - V_{slagt}) \cdot Fe \cdot {F} \cdot Ym}{\theta_{MJ-CH_4}} $$
 
 **Beregning af enterisk metan for årssøer** 
 
-$$CH_{4_{enterisk}} = \frac{SOF \cdot {SF} \cdot Ym}{\theta_{MJ-CH_4}} $$
+$$CH_{4_{enterisk}} = \frac{SF \cdot {F} \cdot Ym}{\theta_{MJ-CH_4}} $$
 
 Hvor: 
 
-* S (Slagtevægt/afgangsvægt) = input fra bruger el. standard fra tabel
+* V<sub>slagt</sub> (Slagtevægt) = input fra bruger el. standard fra tabel
 * Δ<sub>d</sub> = 1,31
-* A (afgangsvægt) = input fra bruger el. standard fra tabel
-* I (Indsættelsesvægt) = input fra bruger el. standard fra tabel
-* F (FEsv pr kg tilvækst) = input fra bruger el. standard fra tabel
-* SF (Slagtegrisefoder, MJ pr foderenhed) = Input fra foderberegning el. standard fra tabel
-* SOF (sofoder pr årsso) = Input fra foderberegning el. standard fra tabel
+* V<sub>afgang</sub> (Afgangsvægt) = input fra bruger el. standard fra tabel
+* V<sub>ind</sub> (Indsættelsesvægt) = input fra bruger el. standard fra tabel
+* Fe (FEsv pr kg tilvækst) = input fra bruger el. standard fra tabel
+* F (foder, MJ pr foderenhed) = Input fra foderberegning el. standard fra tabel
+* SF (sofoder pr årsso) = Input fra foderberegning el. standard fra tabel
 * Ym-faktor = 0,006
 * $\theta$ <sub>MJ-CH<sub>4</sub></sub> (Omregningsfaktor MJ til CH<sub>4</sub>) = 55,65
 
 *Standardtal:*
 
-| Dyregruppe | Slagtevægt, kg | Indsættelsesvægt, kg | FEsv/kg tilvækst | Slagtegrisefoder, MJ pr foderenhed | Afgangsvægt, kg | Sofoder pr årsso | 
+| Dyregruppe | Slagtevægt, kg | Indsættelsesvægt, kg | FEsv/kg tilvækst | Foder, MJ pr foderenhed | Afgangsvægt, kg | Sofoder pr årsso | 
 |---|---|---|---|---| ---| ---|
 |Slagtegris, konv.|88|30|2,65| 17,3 | -| -|
 |FRATS, konv.|88|6,6|2,45| 17,2 | -| -|
