@@ -2,7 +2,7 @@
 
 ### **Beregning:**
 
-**Beregning af enterisk metan for slagtegrise** 
+**Beregning af enterisk metan for slagtegrise/FRATS** 
 
 $$CH_{4_{enterisk}} = \frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe \cdot {F} \cdot Ym}{\theta_{MJ-CH_4}} $$
 
@@ -16,27 +16,16 @@ $$CH_{4_{enterisk}} = \frac{SF \cdot {F} \cdot Ym}{\theta_{MJ-CH_4}} $$
 
 Hvor: 
 
-* V<sub>slagt</sub> (Slagtevægt) = input fra bruger el. standard fra tabel
+* V<sub>slagt</sub> (Slagtevægt) = input fra bruger el. standard fra regneark: [Slagtevægt konv. & FRATS](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Konv.-Inddata%27!B105&action=embedview) / [Slagtevægt øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B42&action=embedview)
 * Δ<sub>d</sub> = 1,31
-* V<sub>afgang</sub> (Afgangsvægt) = input fra bruger el. standard fra tabel
-* V<sub>ind</sub> (Indsættelsesvægt) = input fra bruger el. standard fra tabel
-* Fe (FEsv pr kg tilvækst) = input fra bruger el. standard fra tabel
-* F (foder, MJ pr foderenhed) = Input fra foderberegning el. standard fra tabel
-* SF (sofoder pr årsso) = Input fra foderberegning el. standard fra tabel
-* Ym-faktor = 0,006
-* $\theta$ <sub>MJ-CH<sub>4</sub></sub> (Omregningsfaktor MJ til CH<sub>4</sub>) = 55,65
+* V<sub>afgang</sub> (Afgangsvægt) = input fra bruger el. standard fra regneark: [Afgangsvægt konv](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Konv.-Inddata%27!B67&action=embedview) / [Afgangsvægt øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B28&action=embedview)
+* V<sub>ind</sub> (Indsættelsesvægt) = input fra bruger el. standard fra regneark: [Indsættelsesvægt konv](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Konv.-Inddata%27!B104&action=embedview) / [Indsættelsesvægt FRATS](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Konv.-Inddata%27!A140&action=embedview) / [Indsættelsesvægt øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B41&action=embedview)
+* Fe (FEsv pr kg tilvækst) = input fra bruger el. standard fra regneark: [Fesv/kg tilvækst](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C14&action=embedview)
+* F (foder, MJ pr foderenhed) = Input fra foderberegning el. standard fra regneark: [Foder MJ pr foderenhed](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C7&action=embedview)
+* SF (sofoder pr årsso) = Input fra foderberegning el. standard fra regneark: el. standard fra regneark: [Sofoder konv](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Konv.-Inddata%27!B13&action=embedview) / [Sofoder øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B13&action=embedview)
+* [Ym-faktor](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C5&action=embedview)
+* [$\theta$ <sub>MJ-CH<sub>4</sub></sub>](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C6&action=embedview)(Omregningsfaktor MJ til CH<sub>4</sub>)
 
-*Standardtal:*
-
-| Dyregruppe | Slagtevægt, kg | Indsættelsesvægt, kg | FEsv/kg tilvækst | Foder, MJ pr foderenhed | Afgangsvægt, kg | Sofoder pr årsso | 
-|---|---|---|---|---| ---| ---|
-|Slagtegris, konv.|88|30|2,65| 17,3 | -| -|
-|FRATS, konv.|88|6,6|2,45| 17,2 | -| -|
-|Slagtegris, øko|88|30|2,89| 17,3 | -| -|
-|Smågris|-|6,4|1,82| 16,5 | 30| -|
-|Smågris, øko |-|14|2,25| 16,5 | 30| -|
-|Årsso, konv. |-|-|-| 17,5 | -| 1516|
-|Årsso, øko  |-|-|-| 17,5 | -| 2050|
 
 
 *CH<sub>4</sub>-emissionen ganges med antallet af dyr pr staldtype og omregnes til CO<sub>2</sub>-ækvivalenter*
@@ -46,4 +35,4 @@ $$CO_2e = CH_{4_{enterisk}} \cdot \theta_{CH_4-CO_2} $$
 
 Hvor: 
 
-•	$\theta$ <sub>CH<sub>4</sub>-CO<sub>2</sub></sub> (Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub>) = 25
+•	[$\theta$ <sub>CH<sub>4</sub>-CO<sub>2</sub></sub>](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)(Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub>)
