@@ -4,12 +4,12 @@
 
 **Beregning af lattergas på stald** 
 
-$$N_2O_{stald} = (N_{gris} + N_{strøelse}) \cdot Tab_{N2OStald} \cdot VM_{stald} $$
+$$N_2O_{stald} = (N_{gris} + N_{strøelse}) \cdot Tab_{N_2OStald} \cdot VM_{N_2OStald} $$
 
 Hvor: 
 
  * Tab<sub>N2OStald</sub>: Direkte N2O tab i stalden, % af N ab dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!C56&action=embedview)
- * VM<sub>stald</sub>: Effekten af evt. valgte virkemidler på stalden - NB der findes pt ingen virkemidler som påvirker N2O i stalden, men kan evt. komme senere
+ * VM<sub>N<sub>2</sub>O</sub><sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden - *NB der findes pt ingen virkemidler som påvirker N2O i stalden, men kan evt. komme senere*
 
 **Beregning af kg N ab gris, N<sub>gris</sub>, afhænger af dyretypen:** 
 
@@ -49,7 +49,6 @@ $$ N_{strøelse} = Halm \cdot Z $$
  * Halm, kg halm per dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!I2&action=embedview)
  * Z: kg N pr. kg strøelse [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!B96&action=embedview)
 
-*N<sub>2</sub>O-emissionen ganges med antallet af dyr pr staldtype og omregnes til CO<sub>2</sub>-ækvivalenter*
 ### **Omregning til CO<sub>2</sub>e:**
 
 $$CO_2e = N_2O_{stald} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2} $$
