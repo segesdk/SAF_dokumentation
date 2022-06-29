@@ -29,12 +29,12 @@ $$ T_{smågris} = V_{salg} - V_{ind} $$
 
 OBS: Årssoens klimaaftryk beregnes ved at lægge andelen fra løbe-og drætighedsstalden (X<sub>løb</sub>) sammen med andelen fra farestalden (X<sub>fare</sub>):
 
-$$ \begin{gather*}
+$$ \begin{gather}
 N_{gris} = \\
 (\frac{\frac{Fe \cdot X_{løb} \cdot R}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{løb}) \\
 + \\
 (\frac{\frac{Fe \cdot X_{fare} \cdot R}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{fare})
-\end{gather*}$$
+\end{gather}$$
 
 
 
