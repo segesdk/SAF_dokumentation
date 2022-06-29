@@ -31,7 +31,9 @@ OBS: Årssoens klimaaftryk beregnes ved at lægge andelen fra løbe-og drætigh
 
 $$ \begin{gather*}
 N_{gris} = \\
-\frac{\frac{Fe \cdot X \cdot R}{1000}}{P} - k_{so} \cdot X - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X
+(\frac{\frac{Fe \cdot X_{løb} \cdot R}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{løb}) \\
++ \\
+(\frac{\frac{Fe \cdot X_{fare} \cdot R}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{fare})
 \end{gather*}$$
 
 
