@@ -17,18 +17,19 @@ Hvor:
 
 $$N_{gris} = \frac{\frac{T \cdot Fe \cdot R}{P}-T \cdot N}{1000}$$
 
-Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
+* Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
 $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
 $$ T_{smågris} = V_{salg} - V_{ind} $$
 
-*Årssøer, konv + øko*
+*Årssøer, løbe-og drætighedsstalden, konv + øko* 
 
-OBS: Årssoens klimaaftryk beregnes ved at lægge andelen fra løbe-og drætighedsstalden (X<sub>løb</sub>) sammen med andelen fra farestalden (X<sub>fare</sub>):
+$$N_{gris} = (\frac{\frac{Fe \cdot X_{løb} \cdot R}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{løb})$$
 
-$$N_{gris} = 
-(\frac{\frac{Fe \cdot X_{løb} \cdot R}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{løb}) + (\frac{\frac{Fe \cdot X_{fare} \cdot R}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{fare})$$
+*Årssøer, farestald, konv + øko* 
+
+$$N_{gris} = (\frac{\frac{Fe \cdot X_{fare} \cdot R}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{V_{ind} \cdot V_{salg} \cdot N_{pat}}{1000} \cdot X_{fare})$$
 
 
 
