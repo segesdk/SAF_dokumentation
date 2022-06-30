@@ -17,11 +17,10 @@ Hvor:
 
 $$ TAN_N = \frac{\frac{T \cdot Fe \cdot R \cdot K}{P}-T \cdot N}{1000}$$
 
-$$ hvor $$
+Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
 $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
-$$ og $$
 
 $$ T_{smågris} = V_{salg} - V_{ind} $$
 
@@ -34,6 +33,7 @@ $$N_{gris} = (\frac{\frac{Fe \cdot X_{løb} \cdot R \cdot K}{1000}}{P} - k_{so} 
 
 
 Hvor:
+* T: Tilvækst 
  * Fe: Fesv pr kg tilvækst/sofoder pr årsso = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!N2&action=embedview)
  * R: Råprotein g pr foderenhed = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!O2&action=embedview)
  * K: FordøjelighedsKoefficient [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!U2&action=embedview)

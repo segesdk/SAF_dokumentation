@@ -17,11 +17,9 @@ Hvor:
 
 $$N_{gris} = \frac{\frac{T \cdot Fe \cdot R}{P}-T \cdot N}{1000}$$
 
-$$ hvor $$
+Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
 $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
-
-$$ og $$
 
 $$ T_{smågris} = V_{salg} - V_{ind} $$
 
