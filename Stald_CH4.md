@@ -48,23 +48,31 @@ Her regnes med et [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFproj
 $$VS_{total} = \frac{VS_{dyr}}{P + (SD - P)}+\frac{VS_{strøelse}}{P + (SD - P)}$$
  ### **Beregning af VS<sub>dyr</sub>:**
 
-$$VS_{dyr} = VS_{tør} \cdot T_{gylle+urin} \cdot (G + U)$$
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot (G + U)$$
 
 Hvor
- * VS<sub>tør</sub>: VS af tørstof = 0,8
- * T<sub>gylle+urin</sub>, Tørstof af gødning + urin:
-
-$$T_{gylle+urin}=\frac{G \cdot 0,25 + U \cdot 0,02}{G + U}$$
+ * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
+ 
 
  * G, Gødning ab årsso pr gris (kg):
 
-$$G = {\frac{\frac{(V_{slagt} \cdot 1,31 - V_{ind}) \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
+$$G = {\frac{\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
 
  * U, Urin ab årsso pr gris (kg):
 
- $$U =\frac{(V_{slagt} \cdot 1,31 - V_{ind}) \cdot Fe}{FEF \cdot 0,87 \cdot 2}$$
+ $$U =\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
 
+Hvor: 
+
+ * FEF: Foderenheder pr kg foder = input fra bruger(???) el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!I2&action=embedview)
 
 
 ### **Beregning af VS<sub>strøelse</sub>**
-$$VS_{strøelse} = Halm \cdot HT \cdot (1- A) \cdot VS_{tør}$$
+$$VS_{strøelse} = H \cdot H_{tør} \cdot (1- A) \cdot VS_{tør}$$
+
+Hvor: 
+
+ * H: kg halm per dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!I2&action=embedview)
+ * H<sub>tør</sub>: Tørstof i halm [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C55&action=embedview)
+ * A: Askeindhold [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C56&action=embedview)
+ * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
