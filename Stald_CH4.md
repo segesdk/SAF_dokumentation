@@ -11,20 +11,24 @@ Hvor:
  * O: Omregningsfaktor fra m3 til kg metan [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!B63&action=embedview)
  * B0: [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!B62&action=embedview)
  * MCF: methane conversion factor [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!U2&action=embedview)
- * VM<sub>CH<sub>4</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden, **indgår kun hvis der er valgt et virkemiddel** [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!D26&action=embedview)
+ * VM<sub>CH<sub>4</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!D26&action=embedview)
 * P: Produktionsdage/dyr/stald: 
 
 $$P = SD \cdot 0,69$$
 
  ### **Beregning af SD, stalddage pr dyr, afhænger af dyretypen:**
 
-*Slagtegris (konv. + øko)*
+> *Slagtegris (konv. + øko) + FRATS*
 
 $$SD = \frac{V_{slagt} \cdot \Delta_d -V_{ind}}{DT} \cdot 1000+10$$
 
-*Smågrise (konv. + øko)*
+> *Smågrise (konv. + øko)*
 
 $$SD = \frac{V_{afgang} - V_{ind}}{DT} \cdot 1000+10$$
+
+> *Årsso (løbestald + farestald, konv. + øko)*
+
+$$SD = 365$$
 
 Hvor:
 
@@ -35,24 +39,25 @@ Hvor:
  * V<sub>afgang</sub>: vægt ved salg/fravænning = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!L2&action=embedview)
 
 
-*FRATS grise*
-
-Her regnes med et [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!P29&action=embedview)
-
-*Årsso (konv. + øko)*
-
-Her regnes med et [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!P4&action=embedview)
-
-
  ### **Beregning af VS<sub>total</sub>:**
 $$VS_{total} = \frac{VS_{dyr}}{P + (SD - P)}+\frac{VS_{strøelse}}{P + (SD - P)}$$
- ### **Beregning af VS<sub>dyr</sub>:**
+ ### **Beregning af VS<sub>dyr</sub>, afhænger af dyretypen:**
+
+>*Slagtegrise (konv. + øko)  + FRATS*
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot (G + U)$$
 
-Hvor
- * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
- 
+ * G, Gødning ab årsso pr gris (kg):
+
+$$G = {\frac{\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
+
+ * U, Urin ab årsso pr gris (kg):
+
+ $$U =\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
+
+>*Smågrise*
+
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U}$$
 
  * G, Gødning ab årsso pr gris (kg):
 
@@ -64,7 +69,8 @@ $$G = {\frac{\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF} \cdot 0,8
 
 Hvor: 
 
- * FEF: Foderenheder pr kg foder = input fra bruger(???) el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!I2&action=embedview)
+ * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
+ * FEF: Foderenheder pr kg foder = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!I2&action=embedview)
 
 
 ### **Beregning af VS<sub>strøelse</sub>**
