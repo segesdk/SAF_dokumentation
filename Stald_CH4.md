@@ -18,13 +18,16 @@ $$P = SD \cdot 0,69$$
 
  ### **Beregning af SD, stalddage pr dyr, afhænger af dyretypen:**
 
-> *Slagtegris (konv. + øko) + FRATS*
+> *Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)*
 
-$$SD = \frac{V_{slagt} \cdot \Delta_d -V_{ind}}{DT} \cdot 1000+10$$
+$$SD = \frac{T}{DT} \cdot 1000+10$$
 
-> *Smågrise (konv. + øko)*
+Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
-$$SD = \frac{V_{afgang} - V_{ind}}{DT} \cdot 1000+10$$
+$$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
+
+$$ T_{smågris} = V_{afgang} - V_{ind} $$
+
 
 > *Årsso (løbestald + farestald, konv. + øko)*
 
@@ -43,29 +46,27 @@ Hvor:
 $$VS_{total} = \frac{VS_{dyr}}{P + (SD - P)}+\frac{VS_{strøelse}}{P + (SD - P)}$$
  ### **Beregning af VS<sub>dyr</sub>, afhænger af dyretypen:**
 
->*Slagtegrise (konv. + øko)  + FRATS*
+>*Slagtegrise (konv. + øko)  + FRATS + smågrise (konv. + øko)*
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot (G + U)$$
 
  * G, Gødning ab årsso pr gris (kg):
 
-$$G = {\frac{\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
+$$G = {\frac{\frac{T \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
 
  * U, Urin ab årsso pr gris (kg):
 
- $$U =\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
+ $$U =\frac{T \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
 
->*Smågrise*
+ Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
-$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U}$$
+$$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
- * G, Gødning ab årsso pr gris (kg):
+$$ T_{smågris} = V_{afgang} - V_{ind} $$
 
-$$G = {\frac{\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
+>*Årssøer*
 
- * U, Urin ab årsso pr gris (kg):
-
- $$U =\frac{(V_{slagt} \cdot \Delta_d - V_{ind}) \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
+MANGLER
 
 Hvor: 
 
