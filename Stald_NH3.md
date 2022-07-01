@@ -9,26 +9,26 @@ $$ NH_{3_{stald}} = TAN_N \cdot Tab_{NH_3Stald} \cdot VM_{NH_3Stald} $$
 Hvor: 
 
  * Tab<sub>NH<sub>3</sub>Stald</sub>: Indirekte N2O tab i stalden, % af N ab dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!I56&action=embedview)
- * VM<sub>NH<sub>3</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden, **indgår kun hvis der er valgt et virkemiddel** [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!C26&action=embedview)
+ * VM<sub>NH<sub>3</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!C26&action=embedview)
 
 ### **Beregning af kg TAN<sub>N</sub> ab gris, afhænger af dyretypen:**
 
-*Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)*  
+>*Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)*  
 
 $$ TAN_N = \frac{\frac{T \cdot Fe \cdot R \cdot K}{P}-T \cdot N}{1000}$$
 
-* Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
+Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
 $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
 
 $$ T_{smågris} = V_{afgang} - V_{ind} $$
 
-*Årssøer, løbe-og drætighedsstalden, konv + øko* 
+>*Årssøer, løbe-og drætighedsstalden, konv + øko* 
 
 $$TAN_N = (\frac{\frac{Fe \cdot X_{løb} \cdot R \cdot K}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{(V_{ind} \cdot V_{afgang}) \cdot X_{løb} \cdot N_{pat}}{1000})$$
 
-*Årssøer, farestald, konv + øko* 
+>*Årssøer, farestald, konv + øko* 
 
 $$TAN_N = (\frac{\frac{Fe \cdot X_{fare} \cdot R \cdot K}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{(V_{ind} \cdot V_{afgang}) \cdot X_{fare} \cdot N_{pat}}{1000})$$
 

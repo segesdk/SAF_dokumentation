@@ -9,25 +9,25 @@ $$N_2O_{stald} = (N_{gris} + N_{strøelse}) \cdot Tab_{N_2OStald} \cdot VM_{N_2O
 Hvor: 
 
  * Tab<sub>N2OStald</sub>: Direkte N2O tab i stalden, % af N ab dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!C56&action=embedview)
- * VM<sub>N<sub>2</sub>O</sub><sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden, **indgår kun hvis der er valgt et virkemiddel** - *NB der findes pt ingen virkemidler som påvirker N2O i stalden, men kan evt. komme senere*
+ * VM<sub>N<sub>2</sub>O</sub><sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden. Da disse endnu ikke findes for N2O på stalden ganges blot med 1*
 
 ### **Beregning af kg N ab gris, N<sub>gris</sub>, afhænger af dyretypen:** 
 
-*Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)* 
+>*Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)* 
 
 $$N_{gris} = \frac{\frac{T \cdot Fe \cdot R}{P}-T \cdot N}{1000}$$
 
-* Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
+Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
 $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
 $$ T_{smågris} = V_{afgang} - V_{ind} $$
 
-*Årssøer, løbe-og drætighedsstalden, konv + øko* 
+>*Årssøer, løbe-og drætighedsstalden, konv + øko* 
 
 $$N_{gris} = (\frac{\frac{Fe \cdot X_{løb} \cdot R}{1000}}{P} - k_{so} \cdot X_{løb} - \frac{V_{ind} \cdot V_{afgang} \cdot N_{pat}}{1000} \cdot X_{løb})$$
 
-*Årssøer, farestald, konv + øko* 
+>*Årssøer, farestald, konv + øko* 
 
 $$N_{gris} = (\frac{\frac{Fe \cdot X_{fare} \cdot R}{1000}}{P} - k_{so} \cdot X_{fare} - \frac{V_{ind} \cdot V_{afgang} \cdot N_{pat}}{1000} \cdot X_{fare})$$
 
