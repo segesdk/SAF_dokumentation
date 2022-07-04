@@ -14,11 +14,13 @@ Hvor:
  * VM<sub>CH<sub>4</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!D26&action=embedview)
 * P: Produktionsdage/dyr/stald: 
 
-$$P = SD \cdot 0,69$$
+$$P = SD \cdot 0,69^*$$
+
+**OBS undtagen årssøer i faremarken på friland, for hvilke P = 365*
 
  ### **Beregning af SD, stalddage pr dyr, afhænger af dyretypen:**
 
-> *Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)*
+> Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)
 
 $$SD = \frac{T}{DT} \cdot 1000+10$$
 
@@ -29,16 +31,16 @@ $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 $$ T_{smågris} = V_{afgang} - V_{ind} $$
 
 
-> *Årsso (løbestald + farestald, konv. + øko)*
+> Årsso (løbestald + farestald, konv. + øko)
 
 $$SD = 365$$
 
 Hvor:
 
- * V<sub>slagt</sub> (Slagtevægt) = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!K2&action=embedview)
+ * V<sub>slagt</sub>: Slagtevægt = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!K2&action=embedview)
  * Δ<sub>d</sub> = 1,31
- * V<sub>ind</sub> (Indsættelsesvægt) = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!J2&action=embedview)
-* DT (daglig tilvækst) = input fra bruger el. RETTES [RET](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!J2&action=embedview)
+ * V<sub>ind</sub>: Indsættelsesvægt = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!J2&action=embedview)
+* DT: daglig tilvækst = input fra bruger el. [Tabelværdi konv.](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27konv.-Inddata%27!B69&action=embedview) / [Tabelværdi øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B30&action=embedview)
  * V<sub>afgang</sub>: vægt ved salg/fravænning = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!L2&action=embedview)
 
 
@@ -50,13 +52,15 @@ $$VS_{total} = \frac{VS_{dyr}}{P + (SD - P)}+\frac{VS_{strøelse}}{P + (SD - P)}
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot (G + U)$$
 
- * G, Gødning ab årsso pr gris (kg):
+Hvor:
 
-$$G = {\frac{\frac{T \cdot Fe}{FEF} \cdot 0,87 \cdot (1-0,83)}{0,25}}$$
+ * G: Gødning ab årsso pr gris (kg):
 
- * U, Urin ab årsso pr gris (kg):
+$$G = {\frac{\frac{T \cdot Fe}{FEF} \cdot \frac{87}{100} \cdot (1-0,83)}{0,25}}$$
 
- $$U =\frac{T \cdot Fe}{FEF }\cdot 0,87 \cdot 2$$
+ * U: Urin ab årsso pr gris (kg):
+
+ $$U =\frac{T \cdot Fe}{FEF }\cdot \frac{87}{100} \cdot 2$$
 
  Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
 
@@ -64,14 +68,35 @@ $$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
 $$ T_{smågris} = V_{afgang} - V_{ind} $$
 
->*Årssøer*
+>*Årssøer, løbe-og drætighedsstalden, konv + øko* 
 
-MANGLER
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{løb})$$
+
+ * G: Gødning ab årsso pr gris (kg):
+
+$$G = \frac{{\frac{Fe}{FEF} \cdot \frac{87}{100}}\cdot \frac{1-81}{100}}{\frac{30}{100}}$$
+
+Hvor:
+
+ * U: Urin ab årsso pr gris (kg):
+
+ $$U ={\frac{Fe}{FEF} \cdot \frac{87}{100}} \cdot 2,5$$
+
+
+>*Årssøer, farestald, konv + øko* 
+
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
+
+G og U beregnes på samme vis som for årssøer på løbe-og drægtighedsstald
+
 
 Hvor: 
 
+
  * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
  * FEF: Foderenheder pr kg foder = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!I2&action=embedview)
+ * X<sub>løb</sub>  = 0,7 for konv / 0,5 for øko
+ * X<sub>fare</sub>  = 0,3 for konv / 0,5 for øko
 
 
 ### **Beregning af VS<sub>strøelse</sub>**
@@ -83,3 +108,11 @@ Hvor:
  * H<sub>tør</sub>: Tørstof i halm [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C55&action=embedview)
  * A: Askeindhold [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C56&action=embedview)
  * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
+
+
+### **Omregning til CO<sub>2</sub>e:**
+ $$CO_2e = CH_{4_{enterisk}} \cdot \theta_{CH_4-CO_2} $$
+
+Hvor: 
+
+•	$\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>(Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub>) [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
