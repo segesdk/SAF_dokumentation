@@ -48,7 +48,7 @@ Hvor:
 ### **Beregning af kg N fra strøelse**
 $$ N_{strøelse} = H \cdot Z $$
 
- * H: halm per dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!I2&action=embedview) [kg]
+ * H: halm per dyr [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27hALM-nORM%27!b3&action=embedview) [kg]
  * Z: N i strøelse [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!B96&action=embedview) [kg N pr kg strøelse]
 
 
@@ -72,7 +72,7 @@ Hvor:
 
  * NH<sub>3stald</sub>: Beregnes i [NH3_Stald_Lager.md](https://github.com/segesdk/SAF_dokumentation/blob/main/N2O_Stald_Lager.md)
  * Tab<sub>N<sub>2</sub>Olager</sub>: Direkte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!H56&action=embedview) [% af N ab dyr]
- * VM<sub>N<sub>2</sub>O</sub><sub>stald</sub>: Effekten af evt. valgte virkemidler på stalden. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!F26&action=embedview)
+ * VM<sub>N<sub>2</sub>O</sub><sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!F26&action=embedview)
 
 ### **Omregning til CO<sub>2</sub>e:**
 

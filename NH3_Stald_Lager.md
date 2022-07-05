@@ -40,7 +40,7 @@ Hvor:
  * K: FordøjelighedsKoefficient [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!U2&action=embedview)
  * P: Protein til N [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!C107&action=embedview)
  * N: N i dyret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!Q2&action=embedview) [g N pr kg tilvækst]
- * k<sub>so</sub>: Korrektionsfaktor for soen [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!C112&action=embedview)
+ * k<sub>so</sub>: Korrektionsfaktor for soen [Standardtal konv.](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!C112&action=embedview) / [Standardtal øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!C116&action=embedview)
  * V<sub>ud</sub>: Vægt ved afgang/salg/fravænning = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!L2&action=embedview) [kg]
  * V<sub>slagt</sub>: Slagtevægt = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!K2&action=embedview) [kg]
  * Δ<sub>d</sub> = 1,31
@@ -63,15 +63,14 @@ ____
 
 ### **Beregning af ammoniak på lager**
 
-$$NH_{3_{lager}} = blob^* $$
+$$NH_{3_{lager}} = ((TAN_N - NH_{3_{stald}}) \cdot Tab_{NH_3lager} \cdot VM_{NH_3lager}) \cdot VM_{NH_3lager} $$
 
-**OBS undtagen årssøer i faremarken på friland, for hvilke NH<sub>3</sub><sub>lager</sub> = 0*
+*NB undtagen årssøer i faremarken på friland (konv. + øko), for hvilke NH<sub>3</sub><sub>lager</sub> = 0*
 
 Hvor: 
 
- * NH<sub>3stald</sub>: Beregnes i [NH3_stald_Lager.md](https://github.com/segesdk/SAF_dokumentation/blob/main/NH3_stald_lager.md)
- * Tab<sub>N<sub>2</sub>Olager</sub>: Direkte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!H56&action=embedview) [% af N ab dyr]
- * VM<sub>N<sub>2</sub>O</sub><sub>stald</sub>: Effekten af evt. valgte virkemidler på stalden. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!F26&action=embedview)
+ * Tab<sub>NH<sub>3</sub>lager</sub>: Indirekte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!J56&action=embedview) [% af N ab dyr]
+ * VM<sub>NH<sub>3</sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!E26&action=embedview)
 
 ### **Omregning til CO<sub>2</sub>e:**
 
