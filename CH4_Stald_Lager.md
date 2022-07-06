@@ -90,13 +90,13 @@ $$G = \frac{{\frac{F}{Fe} \cdot \frac{87}{100}}\cdot \frac{1-81}{100}}{\frac{30}
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
 
-<div align="center"> G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden </div>
+*G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden*
 
 
 Hvor: 
 
  * VS<sub>tør</sub>: VS af tørstof [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C57&action=embedview)
-* F: Foder = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!N2&action=embedview) [Fesv pr kg tilvækst/sofoder pr årsso]
+* F: Foder = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!N2&action=embedview) [Fesv pr kg tilvækst/kg sofoder pr årsso]
  * Fe: Foderenheder = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!I2&action=embedview) [Fesv pr kg foder]
  * X<sub>løb</sub>  = 0,7 for konv / 0,5 for øko
  * X<sub>fare</sub>  = 0,3 for konv / 0,5 for øko
