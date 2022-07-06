@@ -36,4 +36,4 @@ $$CO_2e = CH_{4_{enterisk}} \cdot \theta_{CH_4-CO_2} $$
 
 Hvor: 
 
-•	$\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
+* $\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)

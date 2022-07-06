@@ -4,22 +4,15 @@
 
 ### **Beregning af metan på stald** 
 
-$$ CH_{4_{stald}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot P \cdot VM_{CH_4Stald}$$
+$$ CH_{4_{stald}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot SD \cdot \delta_f \cdot VM_{CH_4Stald}$$
 
 Hvor: 
 
- * O: Omregningsfaktor fra m3 til kg metan [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!B63&action=embedview)
+ * O: Omregningsfaktor fra m<sup>3</sup> til kg metan [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!B63&action=embedview)
  * B0: [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!B62&action=embedview)
  * MCF: methane conversion factor [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!U2&action=embedview)
+ * δ<sub>f</sub>: fordelingsfaktor stald/lager [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C58&action=embedview) - *NB for staldtyperne "faremark", "friland" og "udendørs" er δ<sub>f</sub> = 1, da hele aftrykket tillægges stalden*
  * VM<sub>CH<sub>4</sub>Stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!D26&action=embedview)
-* P: Produktionsdage [dage/dyr/stald]: 
-
-$$P = SD \cdot f$$
-
-Hvor:
- * f: fordelingsfaktor stald/lager [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler-metan-stald%201%27!C58&action=embedview)
-
-*NB for staldtyperne "faremark", "friland" og "udendørs" er P = SD*
 
  ### **Beregning af SD, stalddage pr dyr, afhænger af dyretypen:**
 
@@ -55,7 +48,7 @@ Hvor:
 
 
  ### **Beregning af VS<sub>total</sub>:**
-$$VS_{total} = \frac{VS_{dyr}}{P + (SD - P)}+\frac{VS_{strøelse}}{P + (SD - P)}$$
+$$VS_{total} = \frac{VS_{dyr}}{SD \cdot \delta_f + (SD - SD \cdot \delta_f)}+\frac{VS_{strøelse}}{SD \cdot \delta_f + (SD - SD \cdot \delta_f)}$$
  ### **Beregning af VS<sub>dyr</sub>, afhænger af dyretypen:**
 
 >Slagtegrise (konv. + øko)  + FRATS + smågrise (konv. + øko)
@@ -125,7 +118,7 @@ Hvor:
 
 Hvor: 
 
-•	$\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
+* $\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
 
 ____
 ## **Lager**
@@ -134,7 +127,7 @@ ____
 
 *NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af CH<sub>4</sub><sub>lager</sub> = 0*
 
-$$CH_{4_{lager}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot (SD-P) \cdot VM_{CH_4lager} $$
+$$CH_{4_{lager}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot (SD-SD \cdot \delta_f) \cdot VM_{CH_4lager} $$
 
 Hvor: 
 
@@ -145,4 +138,4 @@ Hvor:
 
 Hvor: 
 
-•	$\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
+* $\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
