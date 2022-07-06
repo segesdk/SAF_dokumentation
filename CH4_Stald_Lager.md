@@ -1,4 +1,4 @@
-# **Metan (CH4) på grisestalden**
+# **Metan (CH4) på grisestald- og lager**
 
 ## **Stald**
 
