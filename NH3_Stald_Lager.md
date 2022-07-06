@@ -63,9 +63,10 @@ ____
 
 ### **Beregning af ammoniak på lager**
 
+*NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af NH<sub>3</sub><sub>lager</sub> = 0*
+
 $$NH_{3_{lager}} = ((TAN_N - NH_{3_{stald}}) \cdot Tab_{NH_3lager} \cdot VM_{NH_3lager}) \cdot VM_{NH_3lager} $$
 
-*NB undtagen årssøer i faremarken på friland (konv. + øko), for hvilke NH<sub>3</sub><sub>lager</sub> = 0*
 
 Hvor: 
 

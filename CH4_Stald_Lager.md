@@ -4,7 +4,7 @@
 
 ### **Beregning af metan på stald** 
 
-$$ CH4_{stald} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot P \cdot VM_{CH_4Stald}$$
+$$ CH_{4_{stald}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot P \cdot VM_{CH_4Stald}$$
 
 Hvor: 
 
@@ -16,19 +16,26 @@ Hvor:
 
 $$P = SD \cdot 0,69^*$$
 
-**OBS undtagen årssøer i faremarken på friland, for hvilke P = 365*
+**OBS undtagen staldtyperne "faremark" og "friland" (årssøer), for hvilke P = 365*
 
  ### **Beregning af SD, stalddage pr dyr, afhænger af dyretypen:**
 
-> Slagtegris (konv. + øko) + FRATS + smågrise (konv. + øko)
+> Slagtegris (konv. + øko) + FRATS
 
 $$SD = \frac{T}{DT} \cdot 1000+10$$
 
-Hvor tilvæksten, T, beregnes for hhv. slagte/FRATSgrise og smågrise:
+Hvor tilvæksten, T:
 
-$$ T_{slagt+FRATS} = V_{slagt}  \cdot \Delta_d - V_{ind}$$
+$$ T = V_{slagt}  \cdot \Delta_d - V_{ind}$$
 
-$$ T_{smågris} = V_{ud} - V_{ind} $$
+
+> Smågrise (konv. + øko)
+
+$$SD = \frac{T}{DT} \cdot 1000+4$$
+
+Hvor tilvæksten, T:
+
+$$ T = V_{ud} - V_{ind} $$
 
 
 > Årsso (løbestald + farestald, konv. + øko)
@@ -40,7 +47,7 @@ Hvor:
  * V<sub>slagt</sub>: Slagtevægt = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!K2&action=embedview) [kg]
  * Δ<sub>d</sub> = 1,31
  * V<sub>ind</sub>: Indsættelsesvægt = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!J2&action=embedview) [kg]
-* DT: daglig tilvækst = input fra bruger el. [Tabelværdi konv.](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27konv.-Inddata%27!B69&action=embedview) / [Tabelværdi øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B30&action=embedview) [g]
+* DT: Daglig tilvækst = input fra bruger el. [Tabelværdi konv.](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27konv.-Inddata%27!B69&action=embedview) / [Tabelværdi øko](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27%C3%98ko.-Inddata%27!B30&action=embedview) [g]
  * V<sub>ud</sub>: Vægt ved afgang/salg/fravænning = input fra bruger el. [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-Stald%201%27!L2&action=embedview) [kg]
 
 
@@ -87,7 +94,7 @@ $$G = \frac{{\frac{F}{Fe} \cdot \frac{87}{100}}\cdot \frac{1-81}{100}}{\frac{30}
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
 
-*G og U på farestalden beregnes på samme vis som for årssøer på løbe-og drægtighedsstald*
+*G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden*
 
 
 Hvor: 
@@ -112,7 +119,27 @@ Hvor:
 
 
 ### **Omregning til CO<sub>2</sub>e:**
- $$CO_2e = CH_{4_{enterisk}} \cdot \theta_{CH_4-CO_2} $$
+ $$CO_2e = CH_{4_{stald}} \cdot \theta_{CH_4-CO_2} $$
+
+Hvor: 
+
+•	$\theta$<sub>CH<sub>4</sub>-CO<sub>2</sub></sub>: Omregningsfaktor CH<sub>4</sub> til CO<sub>2</sub> [Standardtal](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Enterisk%20metan%2Bsoallokering%27!C3&action=embedview)
+
+____
+## **Lager**
+
+### **Beregning af metan på lager**
+
+*NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af CH<sub>4</sub><sub>lager</sub> = 0*
+
+$$CH_{4_{lager}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot (SD-P) \cdot VM_{CH_4lager} $$
+
+Hvor: 
+
+ * VM<sub>CH<sub>4</sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!G26&action=embedview)
+
+### **Omregning til CO<sub>2</sub>e:**
+ $$CO_2e = CH_{4_{lager}} \cdot \theta_{CH_4-CO_2} $$
 
 Hvor: 
 
