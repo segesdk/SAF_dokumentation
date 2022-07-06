@@ -90,7 +90,7 @@ $$G = \frac{{\frac{F}{Fe} \cdot \frac{87}{100}}\cdot \frac{1-81}{100}}{\frac{30}
 
 $$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
 
-*G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden*
+<div align="center"> G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden </div>
 
 
 Hvor: 
