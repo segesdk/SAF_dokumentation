@@ -73,7 +73,7 @@ $$ T_{smågris} = V_{ud} - V_{ind} $$
 
 >Årssøer, løbe-og drætighedsstalden, konv + øko 
 
-$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{løb})$$
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,3 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{løb})$$
 
  Hvor:
 
@@ -88,7 +88,7 @@ $$G = \frac{{\frac{F}{Fe} \cdot \frac{87}{100}}\cdot \frac{1-81}{100}}{\frac{30}
 
 >Årssøer, farestald, konv + øko 
 
-$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,25 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
+$$VS_{dyr} = VS_{tør} \cdot \frac{G \cdot 0,3 + U \cdot 0,02}{G + U} \cdot ((G + U) \cdot X_{fare})$$
 
 *G og U i farestalden beregnes på samme vis som for årssøerne i løbe-og drægtighedsstalden*
 
