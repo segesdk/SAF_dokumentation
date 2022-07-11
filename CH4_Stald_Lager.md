@@ -127,7 +127,7 @@ ____
 
 *NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af CH<sub>4</sub><sub>lager</sub> = 0*
 
-$$CH_{4_{lager}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot (SD-SD \cdot \delta_f) \cdot VM_{CH_4lager} $$
+$$CH_{4_{lager}} = VS_{total} \cdot O \cdot B0 \cdot MCF \cdot (SD-SD \cdot (1-\delta_f)) \cdot VM_{CH_4lager} $$
 
 Hvor: 
 
