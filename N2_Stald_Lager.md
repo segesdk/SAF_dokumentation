@@ -61,7 +61,7 @@ ____
 
 ## **Lager**
 
-### **Beregning af ammoniak på lager**
+### **Beregning af indirekte N<sub>2</sub>0 (N<sub>2</sub>) på lager** 
 
 *NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af N<sub>2lager</sub> = 0*
 
