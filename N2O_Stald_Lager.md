@@ -67,7 +67,7 @@ ____
 ### **Beregning af lattergas på lager**
 *NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af N<sub>2</sub>O<sub>lager</sub> = 0*
 
-$$N_2O_{lager} = ((N_{gris} + N_{strøelse}) - N_{2stald} - ((N_{gris} + N_{strøelse}) \cdot VM_{N_2Ostald})) \cdot Tab_{N_2Olager} \cdot VM_{N_2Olager} $$
+$$N_2O_{lager} = ((N_{gris} + N_{strøelse}) - N_{2stald} - ((N_{gris} + N_{strøelse}) \cdot Tab_{N_2Ostald})) \cdot Tab_{N_2Olager} \cdot VM_{N_2Olager} $$
 
 Hvor: 
 
