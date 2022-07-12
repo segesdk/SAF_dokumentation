@@ -1,15 +1,15 @@
-# **Ammoniak (NH3) på grisestald- og lager**
+# **Indirekte N<sub>2</sub>0 (N<sub>2</sub>) på grisestald- og lager**
 
 ## **Stald**
 
-### **Beregning af ammoniak på stald** 
+### **Beregning af indirekte N<sub>2</sub>0 (N<sub>2</sub>) på stald** 
 
-$$ NH_{3_{stald}} = TAN_N \cdot Tab_{NH_3stald} \cdot VM_{NH_3stald} $$
+$$ N_{2stald} = TAN_N \cdot Tab_{N_2stald} \cdot VM_{N_2stald} $$
 
 Hvor: 
 
- * Tab<sub>NH<sub>3</sub>stald</sub>: Indirekte N2O tab i stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!I56&action=embedview) [% af N ab dyr]
- * VM<sub>NH<sub>3</sub>stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!C26&action=embedview)
+ * Tab<sub>N<sub>2</sub>stald</sub>: Indirekte N<sub>2</sub>O tab i stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!I56&action=embedview) [% af N ab dyr]
+ * VM<sub>N<sub>2</sub>stald</sub>: Effekten af evt. valgte virkemidler på stalden [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!C26&action=embedview)
 
 ### **Beregning af kg TAN<sub>N</sub> ab gris, afhænger af dyretypen:**
 
@@ -51,7 +51,7 @@ Hvor:
 
 ### **Omregning til CO<sub>2</sub>e:**
 
-$$CO_2e = NH_{3_{stald}} \cdot \frac{44}{28} \cdot 0,01 \cdot \theta_{N_2O-CO_2} $$
+$$CO_2e = N_{2stald} \cdot \frac{44}{28} \cdot 0,01 \cdot \theta_{N_2O-CO_2} $$
 
 Hvor: 
 
@@ -63,19 +63,19 @@ ____
 
 ### **Beregning af ammoniak på lager**
 
-*NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af NH<sub>3</sub><sub>lager</sub> = 0*
+*NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af N<sub>2lager</sub> = 0*
 
-$$NH_{3_{lager}} = ((TAN_N - NH_{3_{stald}}) \cdot Tab_{NH_3lager} \cdot VM_{NH_3lager}) \cdot VM_{NH_3lager} $$
+$$N_{2lager} = (TAN_N - N_{2stald}) \cdot Tab_{N_2lager} \cdot VM_{N_2lager} $$
 
 
 Hvor: 
 
- * Tab<sub>NH<sub>3</sub>lager</sub>: Indirekte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!J56&action=embedview) [% af N ab dyr]
- * VM<sub>NH<sub>3</sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!E26&action=embedview)
+ * Tab<sub>N<sub>2</sub>lager</sub>: Indirekte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!J56&action=embedview) [% af N ab dyr]
+ * VM<sub>N<sub>2</sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!E26&action=embedview)
 
 ### **Omregning til CO<sub>2</sub>e:**
 
-$$CO_2e = NH_{3_{lager}} \cdot \frac{44}{28} \cdot 0,01 \cdot \theta_{N_2O-CO_2} $$
+$$CO_2e = N_{2lager}  \cdot \frac{44}{28} \cdot 0,01 \cdot \theta_{N_2O-CO_2} $$
 
 Hvor: 
 
