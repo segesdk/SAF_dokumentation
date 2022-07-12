@@ -14,7 +14,6 @@ Hvor:
 
 $$ E_{N} = N \cdot M \cdot K \cdot C $$
 
-
 Hvor: 
 
  * N: Naturgas pr årsso = input fra bruger [m<sup>3</sup>]
