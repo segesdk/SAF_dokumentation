@@ -67,11 +67,11 @@ ____
 ### **Beregning af lattergas på lager**
 *NB for staldtyperne "faremark", "friland" og "udendørs" tilføres der ikke noget til lageret og værdien af N<sub>2</sub>O<sub>lager</sub> = 0*
 
-$$N_2O_{lager} = ((N_{gris} + N_{strøelse}) - NH_{3_{stald}} - ((N_{gris} + N_{strøelse}) \cdot VM_{N_2Ostald})) \cdot Tab_{N_2Olager} \cdot VM_{N_2Olager} $$
+$$N_2O_{lager} = ((N_{gris} + N_{strøelse}) - N_{2stald} - ((N_{gris} + N_{strøelse}) \cdot VM_{N_2Ostald})) \cdot Tab_{N_2Olager} \cdot VM_{N_2Olager} $$
 
 Hvor: 
 
- * NH<sub>3stald</sub>: Beregnes i [NH3_Stald_Lager.md](https://github.com/segesdk/SAF_dokumentation/blob/main/N2O_Stald_Lager.md)
+ * N<sub>2stald</sub>: Beregnes i [N2_Stald_Lager.md](https://github.com/segesdk/SAF_dokumentation/blob/main/N2O_Stald_Lager.md)
  * Tab<sub>N<sub>2</sub>Olager</sub>: Direkte N2O tab på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Formler%20NH3%20og%20N2O%20-stald%201%27!H56&action=embedview) [% af N ab dyr]
  * VM<sub>N<sub>2</sub>O</sub><sub>lager</sub>: Effekten af evt. valgte virkemidler på lageret [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/SAFprojeketet/_layouts/15/Doc.aspx?sourcedoc=%7B55DC573E-DF3A-4BB4-BA90-49438C005785%7D&file=Formler%20til%20PORK%202.0%20med%20foderberegner.xlsx&activeCell=%27Virkemidler%20%27!F26&action=embedview)
 
