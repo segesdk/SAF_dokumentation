@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T13:28:15.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="haLvlbv9CeAZjD9eNVgF" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T13:34:03.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="9GLpCwm-PV2pZulkeu84" version="20.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3669" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4380" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -151,7 +151,7 @@
         <mxCell id="vS6JaXDpFEPLMcrLEANU-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-57" target="vS6JaXDpFEPLMcrLEANU-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-57" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-57" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="160" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-58" target="vS6JaXDpFEPLMcrLEANU-63">
@@ -160,7 +160,7 @@
         <mxCell id="vS6JaXDpFEPLMcrLEANU-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-58" target="vS6JaXDpFEPLMcrLEANU-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-58" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-58" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="490" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-59" target="vS6JaXDpFEPLMcrLEANU-64">
@@ -169,7 +169,7 @@
         <mxCell id="vS6JaXDpFEPLMcrLEANU-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-59" target="vS6JaXDpFEPLMcrLEANU-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-59" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-59" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="850" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-64" target="vS6JaXDpFEPLMcrLEANU-88">
@@ -190,19 +190,19 @@
         <mxCell id="vS6JaXDpFEPLMcrLEANU-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-74" target="vS6JaXDpFEPLMcrLEANU-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-74" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-74" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1145" y="1180" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-77" target="vS6JaXDpFEPLMcrLEANU-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-77" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-77" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1145" y="1360" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-80" target="vS6JaXDpFEPLMcrLEANU-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-80" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-80" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1145" y="1540" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-81" value="sum: FRATS CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -214,19 +214,19 @@
         <mxCell id="vS6JaXDpFEPLMcrLEANU-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-88" target="vS6JaXDpFEPLMcrLEANU-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-88" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-88" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1720" y="160" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-90" target="vS6JaXDpFEPLMcrLEANU-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-90" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-90" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1720" y="490" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-92" target="vS6JaXDpFEPLMcrLEANU-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-92" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-92" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1720" y="850" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-93" value="sum: Slagtegrisens CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
