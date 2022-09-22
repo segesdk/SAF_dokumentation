@@ -1,95 +1,157 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T12:55:59.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="VTxJtcDAHAER-YKKZ2Uh" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T13:12:45.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="jGMeYCBUoE0WGsE1hb0r" version="20.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2186" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3411" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vS6JaXDpFEPLMcrLEANU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-3" target="vS6JaXDpFEPLMcrLEANU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-3" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-3" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-4" target="vS6JaXDpFEPLMcrLEANU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-4" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-4" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-5" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-5" target="vS6JaXDpFEPLMcrLEANU-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-5" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-5" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="230" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-9" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-9" target="vS6JaXDpFEPLMcrLEANU-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-9" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-9" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="80" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-12" target="vS6JaXDpFEPLMcrLEANU-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-12" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-12" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-14" target="vS6JaXDpFEPLMcrLEANU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-14" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-14" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-15" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-15" target="vS6JaXDpFEPLMcrLEANU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-15" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-15" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="570" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-16" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-16" target="vS6JaXDpFEPLMcrLEANU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-16" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-16" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="420" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-18" target="vS6JaXDpFEPLMcrLEANU-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-18" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-18" value="Løbestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-20" target="vS6JaXDpFEPLMcrLEANU-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-20" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-20" value="Farestald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-21" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-21" target="vS6JaXDpFEPLMcrLEANU-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-21" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-21" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="910" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-22" target="vS6JaXDpFEPLMcrLEANU-27">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-22" target="vS6JaXDpFEPLMcrLEANU-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-22" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-22" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;(indkøbte) polte&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="760" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-24" value="Stald 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-24" value="Stald 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-25" value="Stald 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-25" value="Stald 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-26" value="Stald n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-26" value="Stald n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS6JaXDpFEPLMcrLEANU-27" value="sum af årssøer på CHR numemret" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="520" width="80" height="80" as="geometry" />
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-27" value="sum: pattegrisens CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vS6JaXDpFEPLMcrLEANU-34" value="årssøer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="10" width="560" height="60" as="geometry" />
+          <mxGeometry x="200" y="10" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-35" target="vS6JaXDpFEPLMcrLEANU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-35" target="vS6JaXDpFEPLMcrLEANU-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-35" value="Andel til pattegrisen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-36" target="vS6JaXDpFEPLMcrLEANU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-36" target="vS6JaXDpFEPLMcrLEANU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-36" value="Andel til pattegrisen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-37" target="vS6JaXDpFEPLMcrLEANU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-37" target="vS6JaXDpFEPLMcrLEANU-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-37" value="Andel til pattegrisen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="890" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-47" target="vS6JaXDpFEPLMcrLEANU-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-47" target="vS6JaXDpFEPLMcrLEANU-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-47" target="vS6JaXDpFEPLMcrLEANU-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-47" value="vægtet gennemsnit: pattegrisens CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="630" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-53" value="pattegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="10" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-54" value="CHR XXXXXX" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=1;fontSize=32;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180" y="530" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-57" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="160" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-58" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="490" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-59" value="CO2e for:&lt;br&gt;Enterisk metan&lt;br&gt;Stalden&lt;br&gt;Lageret&lt;br&gt;Foder&lt;br&gt;El&lt;br&gt;Varme&lt;br&gt;Smågrisens aftryk&lt;br&gt;Biodiesel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="850" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-63" value="sum: smågrisens CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vS6JaXDpFEPLMcrLEANU-64" value="vægtet gennemsnit: smågrisens CO2e aftryk på CHR nummret" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="630" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
