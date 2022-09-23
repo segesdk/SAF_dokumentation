@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T12:01:42.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="fPhm3nmf9t47gqH4S2Z3" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T12:02:06.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="MeUbYroaNx1JV5dc9vGg" version="20.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4201" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1387,7 +1387,7 @@
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2339" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;rotation=0;strokeColor=#0e8088;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1604.5" y="626" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sf_NmLY8HooHDOu4ANE3-2355" value="vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;på CHR nummret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Sf_NmLY8HooHDOu4ANE3-2355" value="vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;på CHR nummret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460.5" y="1348.25" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;strokeColor=#808080;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2357" target="Sf_NmLY8HooHDOu4ANE3-2355">
