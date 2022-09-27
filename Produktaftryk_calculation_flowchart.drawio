@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T09:26:19.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="ONF6nnv_NYzX_uj-tQRT" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T09:26:30.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="P0a_ziA1S3UBQt8BKLNj" version="20.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2204" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2046" value="Løbe/drægtigheds stald n" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;strokeColor=#10739e;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="78.75" y="1022" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sf_NmLY8HooHDOu4ANE3-2047" value="Sum for årssoen m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Sf_NmLY8HooHDOu4ANE3-2047" value="Sum for årssoen inkl. pattegrise m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2048" value="Farestald n" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;strokeColor=#10739e;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
