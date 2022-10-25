@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T08:05:44.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="gbXiMpEX5BCRfme41ecJ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T08:08:14.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="QG099yVn4TJ1KRfmw45I" version="20.4.0" type="github">
   <diagram id="GUWWXrYv7TFzIVzRqDlY" name="Page-1">
     <mxGraphModel dx="4907" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,17 +409,29 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-752" value="Egenproduceret korn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2271" y="568.5" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-768" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-756" target="A_WAUtJpo3-AmnUpiRZP-764">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-756" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="298.75" y="634.25" width="264.5" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-765" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=18;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-757" target="A_WAUtJpo3-AmnUpiRZP-764">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-757" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1116.75" y="639.5" width="264.5" height="90.5" as="geometry" />
         </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-767" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-758" target="A_WAUtJpo3-AmnUpiRZP-764">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-758" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1929.75" y="639.5" width="264.5" height="90.5" as="geometry" />
+          <mxGeometry x="1929.75" y="636.5" width="264.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-762" value="CVR 12345678" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="62" y="80" width="2358" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-764" value="Samlet bedriftsaftryk for CVR nummeret m/u LUC" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="939" y="850" width="620" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
