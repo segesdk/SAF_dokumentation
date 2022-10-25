@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T08:13:16.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="e7kSToxXjf9dtmCyiqfF" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T14:03:13.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="41zGPoaI7oi618UYHl-t" version="20.4.0" type="github">
   <diagram id="GUWWXrYv7TFzIVzRqDlY" name="Page-1">
-    <mxGraphModel dx="3453" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4054" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-115" value="CHR 111111" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="61" y="200.5" width="729" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-759" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=18;dashed=1;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-611" target="A_WAUtJpo3-AmnUpiRZP-756">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-611" value="Vægtet gennemsnit: grisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="376" y="421" width="110" height="110" as="geometry" />
+          <mxGeometry x="377.25" y="435.5" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-660" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-613" target="A_WAUtJpo3-AmnUpiRZP-611">
           <mxGeometry relative="1" as="geometry" />
@@ -118,26 +115,32 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-655" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-647" target="A_WAUtJpo3-AmnUpiRZP-611">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-775" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-647" target="A_WAUtJpo3-AmnUpiRZP-770">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-647" value="gris stald 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="339.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-648" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontSize=62;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-649" target="A_WAUtJpo3-AmnUpiRZP-611">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-649" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="339.5" width="150" height="30" as="geometry" />
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-774" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-649" target="A_WAUtJpo3-AmnUpiRZP-770">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-664" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-650" target="A_WAUtJpo3-AmnUpiRZP-611">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-649" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-772" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-650" target="A_WAUtJpo3-AmnUpiRZP-770">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-650" value="Egenproduceret korn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="61" y="570" width="150" height="20" as="geometry" />
+          <mxGeometry x="63" y="665" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-651" target="A_WAUtJpo3-AmnUpiRZP-611">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-773" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-651" target="A_WAUtJpo3-AmnUpiRZP-770">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-651" value="Egenproduceret korn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="640" y="569.5" width="150" height="20" as="geometry" />
+          <mxGeometry x="641" y="665" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-665" value="CHR 222222" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="881" y="200.5" width="729" height="77.5" as="geometry" />
@@ -413,25 +416,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-756" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="298.75" y="634.25" width="264.5" height="90.5" as="geometry" />
+          <mxGeometry x="300" y="1250" width="264.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-765" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=18;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-757" target="A_WAUtJpo3-AmnUpiRZP-764">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-757" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1116.75" y="639.5" width="264.5" height="90.5" as="geometry" />
+          <mxGeometry x="1119.25" y="1582.25" width="264.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-767" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=18;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-758" target="A_WAUtJpo3-AmnUpiRZP-764">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-758" value="Ganges med antallet af dyr på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1929.75" y="636.5" width="264.5" height="90.5" as="geometry" />
+          <mxGeometry x="1932.25" y="1582.25" width="264.5" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-762" value="CVR 12345678" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="62" y="80" width="2358" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-764" value="Samlet bedriftsaftryk for grise m/u LUC&lt;br&gt;på CVR nummeret" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="939" y="850" width="620" height="210" as="geometry" />
+          <mxGeometry x="941.5" y="1795.75" width="620" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-770" value="Vægtet gennemsnit: grisens CO2e aftryk fra egenproduceret korn u. LUC&lt;br&gt;&amp;nbsp;på CHR nummret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="378.25" y="620" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-786" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;dashed=1;dashPattern=1 1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="354" y="410" width="156" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
