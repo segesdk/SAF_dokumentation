@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T08:10:26.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="5wYSyNfnujX7PPjc4ia8" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T08:13:16.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="e7kSToxXjf9dtmCyiqfF" version="20.4.0" type="github">
   <diagram id="GUWWXrYv7TFzIVzRqDlY" name="Page-1">
     <mxGraphModel dx="3453" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-627" target="A_WAUtJpo3-AmnUpiRZP-611">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-627" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-627" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="61" y="546" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-656" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-629" target="A_WAUtJpo3-AmnUpiRZP-611">
@@ -106,7 +106,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-658" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-643" target="A_WAUtJpo3-AmnUpiRZP-611">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-643" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-643" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="641" y="545.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-644" value="gris stald 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
@@ -193,7 +193,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-681" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-682" target="A_WAUtJpo3-AmnUpiRZP-666">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-682" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-682" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="881" y="546" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-683" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-684" target="A_WAUtJpo3-AmnUpiRZP-666">
@@ -241,7 +241,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-697" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-698" target="A_WAUtJpo3-AmnUpiRZP-666">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-698" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-698" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1461" y="545.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-699" value="gris stald 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
@@ -328,7 +328,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-725" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-726" target="A_WAUtJpo3-AmnUpiRZP-710">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-726" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-726" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1691" y="545.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-727" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-728" target="A_WAUtJpo3-AmnUpiRZP-710">
@@ -376,7 +376,7 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-741" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-742" target="A_WAUtJpo3-AmnUpiRZP-710">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_WAUtJpo3-AmnUpiRZP-742" value="Smågriis/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="A_WAUtJpo3-AmnUpiRZP-742" value="Smågris/polt m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2271" y="545" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-743" value="gris stald 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;rotation=0;strokeColor=#b46504;fontStyle=1;" vertex="1" parent="1">
