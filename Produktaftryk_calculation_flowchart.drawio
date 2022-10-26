@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T06:57:24.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="8UNO74aXlVYn2unx7Fkx" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T07:02:01.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="0lylhqbIE9vSBiH0dddu" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3885" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -648,6 +648,9 @@
         </mxCell>
         <mxCell id="t04GnB5SYNLA75fuJA1g-0" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="605" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t04GnB5SYNLA75fuJA1g-5" value="Bruges kun til bedriftsaftrykket" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="536" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
