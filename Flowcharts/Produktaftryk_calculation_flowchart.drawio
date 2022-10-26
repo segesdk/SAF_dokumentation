@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T07:14:28.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="QdwFbrKq70VQFYKllGtz" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T08:42:41.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="1mq4ksFfG1JLTsT4OoX0" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3885" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vS6JaXDpFEPLMcrLEANU-34" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="81.5" y="220" width="400" height="60" as="geometry" />
+          <mxGeometry x="81.5" y="220" width="558.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-1935" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#808080;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vS6JaXDpFEPLMcrLEANU-47" target="Sf_NmLY8HooHDOu4ANE3-1928" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-16" target="Sf_NmLY8HooHDOu4ANE3-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-16" target="t04GnB5SYNLA75fuJA1g-0">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-16" target="t04GnB5SYNLA75fuJA1g-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-16" value="Sum for årssoen inkl. pattegrise m/u LUC&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Sum%20for%20%C3%A5rssoen%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22362.5%22%20y%3D%221046%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -394,7 +394,7 @@
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2319" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;strokeColor=#10739e;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="78.75" y="673" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2321" target="t04GnB5SYNLA75fuJA1g-0">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2321" target="t04GnB5SYNLA75fuJA1g-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2321" value="Sum for årssoen inkl. pattegrise m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -403,7 +403,7 @@
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;fontSize=62;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2322" target="Sf_NmLY8HooHDOu4ANE3-2335" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2322" target="t04GnB5SYNLA75fuJA1g-0">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sf_NmLY8HooHDOu4ANE3-2322" target="t04GnB5SYNLA75fuJA1g-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf_NmLY8HooHDOu4ANE3-2322" value="Sum for årssoen inkl. pattegrise m/u LUC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -628,7 +628,7 @@
         <mxCell id="NNVyEVga6WhLkAwk93AD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NNVyEVga6WhLkAwk93AD-34" target="Sf_NmLY8HooHDOu4ANE3-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NNVyEVga6WhLkAwk93AD-34" target="t04GnB5SYNLA75fuJA1g-0">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NNVyEVga6WhLkAwk93AD-34" target="t04GnB5SYNLA75fuJA1g-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NNVyEVga6WhLkAwk93AD-34" value="Sum for årssoen inkl. pattegrise m/u LUC&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Sum%20for%20%C3%A5rssoen%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22362.5%22%20y%3D%221046%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -646,10 +646,10 @@
         <mxCell id="NNVyEVga6WhLkAwk93AD-38" value="Farestald-lager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="79.5" y="873.5" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-0" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-0" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="605" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="t04GnB5SYNLA75fuJA1g-5" value="Bruges kun til bedriftsaftrykket" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t04GnB5SYNLA75fuJA1g-5" value="Bruges kun til bedriftsaftrykket" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="536" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
