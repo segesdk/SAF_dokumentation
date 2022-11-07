@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T08:04:07.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Gnx7jE2mzinYIcwlANLX" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T07:51:03.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="ODZiC9EJoS6xPr3_9LbB" version="20.5.1" type="github">
   <diagram id="GUWWXrYv7TFzIVzRqDlY" name="Page-1">
-    <mxGraphModel dx="3004" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-504" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="A_WAUtJpo3-AmnUpiRZP-756" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-504" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="A_WAUtJpo3-AmnUpiRZP-756" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2755" y="866.5" />
@@ -18,34 +18,34 @@
         <mxCell id="A_WAUtJpo3-AmnUpiRZP-764" value="Samlet bedriftsaftryk for grise m/u LUC&lt;br style=&quot;font-size: 30px;&quot;&gt;på CVR nummeret" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3845" y="936.5" width="620" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-1" value="CHR 111111" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-1" value="CHR 111111" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="2640" y="180" width="980" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-135" value="CVR 12345678" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-135" value="CVR 12345678" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="2640" y="60" width="3030" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-138" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-138" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2640" y="268.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-353" target="mpOMUe2CQrQYa7WsvBK0-405">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-353" target="mpOMUe2CQrQYa7WsvBK0-405" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-353" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-353" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2640" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-357" target="mpOMUe2CQrQYa7WsvBK0-405">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-357" target="mpOMUe2CQrQYa7WsvBK0-405" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-357" value="Vægtet gennemsnit: egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-357" value="Egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2760" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-405" target="A_WAUtJpo3-AmnUpiRZP-756">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-405" target="A_WAUtJpo3-AmnUpiRZP-756" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-405" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-405" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2690" y="506.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-503" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-412" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-503" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-412" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3005" y="866.5" />
@@ -53,31 +53,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-412" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-412" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2922.75" y="668.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-413" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-413" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2890" y="268.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-415" target="mpOMUe2CQrQYa7WsvBK0-419">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-415" target="mpOMUe2CQrQYa7WsvBK0-419" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-415" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-415" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2890" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-417" target="mpOMUe2CQrQYa7WsvBK0-419">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-417" target="mpOMUe2CQrQYa7WsvBK0-419" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-417" value="Vægtet gennemsnit: egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-417" value="Egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3010" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-419" target="mpOMUe2CQrQYa7WsvBK0-412">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-419" target="mpOMUe2CQrQYa7WsvBK0-412" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-419" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-419" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2940" y="506.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-420" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-420" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3255" y="866.5" />
@@ -85,31 +85,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-420" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-420" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3172.75" y="668.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-421" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-421" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3140" y="268.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-423" target="mpOMUe2CQrQYa7WsvBK0-427">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-423" target="mpOMUe2CQrQYa7WsvBK0-427" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-423" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-423" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3140" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-425" target="mpOMUe2CQrQYa7WsvBK0-427">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-425" target="mpOMUe2CQrQYa7WsvBK0-427" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-425" value="Vægtet gennemsnit: egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-425" value="Egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3260" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-427" target="mpOMUe2CQrQYa7WsvBK0-420">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-427" target="mpOMUe2CQrQYa7WsvBK0-420" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-427" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-427" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3190" y="506.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-506" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-428" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-506" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-428" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3505" y="866.5" />
@@ -117,31 +117,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-428" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-428" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3422.75" y="668.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-429" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-429" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3390" y="268.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-431" target="mpOMUe2CQrQYa7WsvBK0-435">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-431" target="mpOMUe2CQrQYa7WsvBK0-435" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-431" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-431" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3390" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-433" target="mpOMUe2CQrQYa7WsvBK0-435">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-433" target="mpOMUe2CQrQYa7WsvBK0-435" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-433" value="Vægtet gennemsnit: egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-433" value="Egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3510" y="352" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-435" target="mpOMUe2CQrQYa7WsvBK0-428">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-435" target="mpOMUe2CQrQYa7WsvBK0-428" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-435" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-435" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3440" y="506.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-507" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-436" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-507" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-436" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3775" y="866.5" />
@@ -149,34 +149,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-436" value="Ganges med antallet af årssøer på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-436" value="Ganges med antallet af årssøer på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3692.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-437" value="CHR 222222" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-437" value="CHR 222222" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="3660" y="184" width="980" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-438" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-438" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3660" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-439" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-440" target="mpOMUe2CQrQYa7WsvBK0-444">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-439" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-440" target="mpOMUe2CQrQYa7WsvBK0-444" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-440" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-440" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3660" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-442" target="mpOMUe2CQrQYa7WsvBK0-444">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-442" target="mpOMUe2CQrQYa7WsvBK0-444" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-442" value="Vægtet gennemsnit: egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-442" value="Egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3780" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-444" target="mpOMUe2CQrQYa7WsvBK0-436">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-444" target="mpOMUe2CQrQYa7WsvBK0-436" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-444" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-444" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3710" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-508" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-445" target="A_WAUtJpo3-AmnUpiRZP-764">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-508" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-445" target="A_WAUtJpo3-AmnUpiRZP-764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4025" y="866.5" />
@@ -184,31 +184,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-445" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-445" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3942.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-446" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-446" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3910" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-448" target="mpOMUe2CQrQYa7WsvBK0-452">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-448" target="mpOMUe2CQrQYa7WsvBK0-452" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-448" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-448" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3910" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-450" target="mpOMUe2CQrQYa7WsvBK0-452">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-450" target="mpOMUe2CQrQYa7WsvBK0-452" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-450" value="Vægtet gennemsnit: egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-450" value="Egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4030" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-452" target="mpOMUe2CQrQYa7WsvBK0-445">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-452" target="mpOMUe2CQrQYa7WsvBK0-445" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-452" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-452" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="3960" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-509" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-509" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4275.0526315789475" y="736.1200000000003" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -218,31 +218,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-453" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-453" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="4192.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-454" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-454" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="4160" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-456" target="mpOMUe2CQrQYa7WsvBK0-460">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-456" target="mpOMUe2CQrQYa7WsvBK0-460" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-456" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-456" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4160" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-458" target="mpOMUe2CQrQYa7WsvBK0-460">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-458" target="mpOMUe2CQrQYa7WsvBK0-460" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-458" value="Vægtet gennemsnit: egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-458" value="Egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4280" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-460" target="mpOMUe2CQrQYa7WsvBK0-453">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-460" target="mpOMUe2CQrQYa7WsvBK0-453" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-460" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-460" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4210" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-510" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-510" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4525.0526315789475" y="736.1200000000003" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -252,31 +252,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-461" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-461" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="4442.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-462" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-462" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="4410" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-463" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-464" target="mpOMUe2CQrQYa7WsvBK0-468">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-463" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-464" target="mpOMUe2CQrQYa7WsvBK0-468" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-464" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-464" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4410" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-465" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-466" target="mpOMUe2CQrQYa7WsvBK0-468">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-465" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-466" target="mpOMUe2CQrQYa7WsvBK0-468" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-466" value="Vægtet gennemsnit: egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-466" value="Egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4530" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-467" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-468" target="mpOMUe2CQrQYa7WsvBK0-461">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-467" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-468" target="mpOMUe2CQrQYa7WsvBK0-461" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-468" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-468" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4460" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-511" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-511" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4805.058823529413" y="736.1199999999999" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -286,34 +286,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-469" value="Ganges med antallet af årssøer på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-469" value="Ganges med antallet af årssøer på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="4722.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-470" value="CHR XXXXXX" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-470" value="CHR XXXXXX" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#808080;fontSize=62;fillColor=default;gradientColor=none;rotation=0;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="4690" y="184" width="980" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-471" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-471" value="Årssoen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=25;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4690" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-473" target="mpOMUe2CQrQYa7WsvBK0-477">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-473" target="mpOMUe2CQrQYa7WsvBK0-477" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-473" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-473" value="Vægtet gennemsnit: årssoens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4690" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-474" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-475" target="mpOMUe2CQrQYa7WsvBK0-477">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-474" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-475" target="mpOMUe2CQrQYa7WsvBK0-477" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-475" value="Vægtet gennemsnit: egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-475" value="Egenproduceret korn til årssoen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4810" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-477" target="mpOMUe2CQrQYa7WsvBK0-469">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-477" target="mpOMUe2CQrQYa7WsvBK0-469" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-477" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-477" value="Vægtet gennemsnit: årssoens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4740" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5055.042553191489" y="736.1199999999999" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -323,31 +323,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-478" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-478" value="Ganges med antallet af smågrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="4972.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-479" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-479" value="Smågrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=25;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4940" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-481" target="mpOMUe2CQrQYa7WsvBK0-485">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-481" target="mpOMUe2CQrQYa7WsvBK0-485" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-481" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-481" value="Vægtet gennemsnit: smågrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4940" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-482" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-483" target="mpOMUe2CQrQYa7WsvBK0-485">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-482" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-483" target="mpOMUe2CQrQYa7WsvBK0-485" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-483" value="Vægtet gennemsnit: egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-483" value="Egenproduceret korn til smågrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5060" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-485" target="mpOMUe2CQrQYa7WsvBK0-478">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-485" target="mpOMUe2CQrQYa7WsvBK0-478" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-485" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-485" value="Vægtet gennemsnit: smågrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="4990" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5305.042553191489" y="736.1199999999999" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -357,31 +357,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-486" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-486" value="Ganges med antallet af slagtegrise på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="5222.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-487" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-487" value="Slagtegrisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=25;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="5190" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-488" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-489" target="mpOMUe2CQrQYa7WsvBK0-493">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-488" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-489" target="mpOMUe2CQrQYa7WsvBK0-493" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-489" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-489" value="Vægtet gennemsnit: slagtegrisens CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5190" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-490" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-491" target="mpOMUe2CQrQYa7WsvBK0-493">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-490" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-491" target="mpOMUe2CQrQYa7WsvBK0-493" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-491" value="Vægtet gennemsnit: egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-491" value="Egenproduceret korn til slagtegrisen&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5310" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-493" target="mpOMUe2CQrQYa7WsvBK0-486">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-493" target="mpOMUe2CQrQYa7WsvBK0-486" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-493" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-493" value="Vægtet gennemsnit: slagtegrisens aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5240" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5555.0526315789475" y="736.1200000000003" as="sourcePoint" />
             <mxPoint x="4155" y="934.5" as="targetPoint" />
@@ -391,31 +391,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-494" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-494" value="Ganges med antallet af FRATS på CHR nummeret" style="rounded=0;whiteSpace=wrap;shadow=0;glass=0;sketch=0;strokeColor=#000000;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="5472.75" y="672.87" width="164.5" height="65.25" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-495" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-495" value="FRATS grisen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=25;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="5440" y="272.75" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-496" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-497" target="mpOMUe2CQrQYa7WsvBK0-501">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-496" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-497" target="mpOMUe2CQrQYa7WsvBK0-501" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-497" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-497" value="Vægtet gennemsnit: FRATS CO2e aftryk m/u LUC&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5440" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-499" target="mpOMUe2CQrQYa7WsvBK0-501">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-499" target="mpOMUe2CQrQYa7WsvBK0-501" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-499" value="Vægtet gennemsnit: egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-499" value="Egenproduceret korn til FRATS&lt;br&gt;&amp;nbsp;på CHR nummeret" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5560" y="356" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mpOMUe2CQrQYa7WsvBK0-501" target="mpOMUe2CQrQYa7WsvBK0-494">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="mpOMUe2CQrQYa7WsvBK0-501" target="mpOMUe2CQrQYa7WsvBK0-494" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-501" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-501" value="Vægtet gennemsnit: FRATS aftryk m/u LUC uden egenproduceret korn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5490" y="510.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpOMUe2CQrQYa7WsvBK0-519" value="Metoden til at beregne vægtede gennemsnit kan ses i dokumentationen for grisens produktaftryk&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="mpOMUe2CQrQYa7WsvBK0-519" value="Metoden til at beregne vægtede gennemsnit kan ses i dokumentationen for grisens produktaftryk&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="4600" y="252.75" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
