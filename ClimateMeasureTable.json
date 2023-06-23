@@ -1,0 +1,61 @@
+
+{
+    "AnimalTypeCodes": [
+        {
+            "AnimalTypeCode": 1501,
+            "HousingSystemCodes": [
+                {
+                    "HousingSystemCode": "1501-01",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1501-08",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1501-04",
+                    "ClimateMeasureCodes": [1, 2, 18],
+                    "HousingSystemCode": "1501-05",
+                    "ClimateMeasureCodes": [1, 2, 18],
+                    "HousingSystemCode": "1501-06",
+                    "ClimateMeasureCodes": [1, 2, 18],
+                    "HousingSystemCode": "1501-07",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1502-01",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1502-02",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1502-05",
+                    "ClimateMeasureCodes": []
+                }
+            ],
+            "AnimalTypeCode": 1511,
+            "HousingSystemCodes": [
+                {
+                    "HousingSystemCode": "1511-01",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1511-03",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1511-04",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1511-05",
+                    "ClimateMeasureCodes": [1, 2, 4, 5, 18]
+                }
+            ],
+            "AnimalTypeCode": 1512,
+            "HousingSystemCodes":[
+                {
+                    "HousingSystemCode": "1512-07",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1512-08",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1512-03",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1512-04",
+                    "ClimateMeasureCodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19],
+                    "HousingSystemCode": "1512-05",
+                    "ClimateMeasureCodes": [1, 2, 18],
+                    "HousingSystemCode": "1512-06",
+                    "ClimateMeasureCodes": [1, 2, 18]
+                }
+            ]
+        }
+    ]
+}
+
